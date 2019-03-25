@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Category_array">
+        <item>Adventure</item>
+        <item>Romance</item>
+        <item>Horror</item>
+        <item>Mistry</item>
+        <item>Children</item>
+        <item>Action</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PublicLibrary</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_activity_user">User</string>
+    <string name="title_activity_home">HOME</string>
+    <string name="title_activity_help">HELP</string>
+    <string name="title_activity_libruary_book_add">LibruaryBookAdd</string>
+    <string name="title_activity_book_borrowed_infomation">BookBorrowedInfomation</string>
+    <string name="title_activity_library_book_information">LibraryBookInformation</string>
+    <string name="title_activity_find_book_information">FindBookInformation</string>
+    <string name="title_activity_category_information">CategoryInformation</string>
+    <string name="title_activity_shelf_information">ShelfInformation</string>
+</resources>
